@@ -1,0 +1,19 @@
+.services__card {
+  color: white;
+  width: 250px;
+  height: 350px;
+  margin: 20px auto;
+  background: rgb(0 0 0 / 40%);
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.services__card__img-container {
+  width: 150px;
+  margin: 0 auto;
+}
+
+.services__card__img {
+  width: 100%;
+}
